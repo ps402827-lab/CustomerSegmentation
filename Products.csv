@@ -1,0 +1,51 @@
+Product_ID,Category,Sub_Category,Cost,Selling_Price
+PROD0001,Fashion,Shoes,1104,2171
+PROD0002,Home & Kitchen,Furniture,5500,9364
+PROD0003,Fashion,Shoes,924,2375
+PROD0004,Fashion,Jeans,804,1268
+PROD0005,Fashion,Jackets,1342,2921
+PROD0006,Home & Kitchen,Furniture,7173,10774
+PROD0007,Beauty,Hair Care,369,1180
+PROD0008,Electronics,Mobiles,12472,16069
+PROD0009,Fashion,T-Shirts,398,565
+PROD0010,Electronics,Laptops,36776,54774
+PROD0011,Home & Kitchen,Bedsheets,753,1271
+PROD0012,Home & Kitchen,Bedsheets,923,1082
+PROD0013,Home & Kitchen,Kitchen Appliances,3861,5028
+PROD0014,Fashion,Jackets,1290,3243
+PROD0015,Electronics,Mobiles,14129,17205
+PROD0016,Fashion,Jeans,786,1320
+PROD0017,Electronics,Headphones,1480,1988
+PROD0018,Sports,Sports Shoes,1842,2605
+PROD0019,Fashion,Watches,2038,3133
+PROD0020,Home & Kitchen,Bedsheets,734,1362
+PROD0021,Fashion,Watches,2135,2760
+PROD0022,Fashion,Jeans,815,1440
+PROD0023,Home & Kitchen,Kitchen Appliances,2212,6771
+PROD0024,Sports,Fitness Equipment,2232,5163
+PROD0025,Beauty,Hair Care,626,726
+PROD0026,Fashion,Watches,1587,2930
+PROD0027,Home & Kitchen,Bedsheets,729,1426
+PROD0028,Home & Kitchen,Decor,752,1841
+PROD0029,Fashion,Jeans,861,1342
+PROD0030,Fashion,T-Shirts,418,539
+PROD0031,Fashion,Watches,2055,3859
+PROD0032,Sports,Sports Shoes,1886,2541
+PROD0033,Fashion,Shoes,1588,2017
+PROD0034,Fashion,Shoes,1103,1850
+PROD0035,Electronics,Mobiles,12189,16002
+PROD0036,Beauty,Skincare,875,1049
+PROD0037,Home & Kitchen,Decor,724,1794
+PROD0038,Sports,Fitness Equipment,1796,5072
+PROD0039,Beauty,Skincare,659,1124
+PROD0040,Electronics,Cameras,25090,36746
+PROD0041,Home & Kitchen,Bedsheets,624,1130
+PROD0042,Beauty,Makeup,775,1201
+PROD0043,Beauty,Hair Care,327,1169
+PROD0044,Electronics,Smart Watches,2434,3523
+PROD0045,Home & Kitchen,Decor,983,1693
+PROD0046,Beauty,Hair Care,504,862
+PROD0047,Home & Kitchen,Decor,927,1984
+PROD0048,Beauty,Makeup,736,2000
+PROD0049,Beauty,Hair Care,428,1159
+PROD0050,Fashion,T-Shirts,440,661
